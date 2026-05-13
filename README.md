@@ -2,7 +2,6 @@
 
 B.Tech +MS in Computational Natural Sciences @ IIITH
 
-- 🔭 Currently working on Computational Physics models
-- 📫 Reach me: satkarjuneja@gmail.
-
-## ![trophy](https://github-profile-trophy.vercel.app/?username=satkarjuneja)
+- 🔭 Interested in computational physics modelling,quantum and thermodynamics
+- 🚀 Love tinkering and blowing up stuff
+- 📫 Let's Collaborate, Reach me at: satkarjuneja@gmail.
