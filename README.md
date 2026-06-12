@@ -1,6 +1,6 @@
 ## Hi, I'm Satkar Juneja
 
-B.Tech +MS in Computational Natural Sciences @ IIITH
+B.Tech + MS in Computational Natural Sciences @ IIITH
 
 - 🔭 Interested in computational physics modelling,quantum and thermodynamics
 - 🚀 Love tinkering and blowing up stuff
